@@ -5,6 +5,8 @@
 
 - [app-host](https://github.com/pluosi/app-host) -应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包
 
+- [反编译](https://github.com/Jermic/Android-Crack-Tool)
+
 ### 开发工具
 - [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 - [搜索库版本](https://search.maven.org/)
