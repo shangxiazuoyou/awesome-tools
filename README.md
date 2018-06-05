@@ -9,6 +9,8 @@
 
 - [limitPNG](http://nullice.com/limitPNG/) -压缩图片工具
 
+- [Gradle](http://services.gradle.org/distributions/)
+
 ### 开发工具
 - [IntelliJ IDEA 注册码](http://idea.lanyus.com/)
 - [搜索库版本](https://search.maven.org/)
