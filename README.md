@@ -21,3 +21,6 @@
 
 ### 代码
 - [BitHubLab](https://bithublab.org/)-BitHubLab 可以搜索所有主要Git平台上的项目，包括GitHub，GitLab和BitBucket等，我们不生产代码，我们只是代码的搬运工[doge] ​​​​
+
+### 其他
+- [经纬度行政区查询](http://jwd.funnyapi.com/#/index)
